@@ -1,0 +1,17 @@
+Z:\24-25 уч год\31ИС\Паневкин\LR09\LR09\bin\Debug\LR09.exe.config
+Z:\24-25 уч год\31ИС\Паневкин\LR09\LR09\bin\Debug\LR09.exe
+Z:\24-25 уч год\31ИС\Паневкин\LR09\LR09\bin\Debug\LR09.pdb
+Z:\24-25 уч год\31ИС\Паневкин\LR09\LR09\bin\Debug\EntityFramework.dll
+Z:\24-25 уч год\31ИС\Паневкин\LR09\LR09\bin\Debug\EntityFramework.SqlServer.dll
+Z:\24-25 уч год\31ИС\Паневкин\LR09\LR09\bin\Debug\EntityFramework.xml
+Z:\24-25 уч год\31ИС\Паневкин\LR09\LR09\bin\Debug\EntityFramework.SqlServer.xml
+Z:\24-25 уч год\31ИС\Паневкин\LR09\LR09\bin\Debug\ru\EntityFramework.resources.dll
+Z:\24-25 уч год\31ИС\Паневкин\LR09\LR09\obj\Debug\LR09.csproj.AssemblyReference.cache
+Z:\24-25 уч год\31ИС\Паневкин\LR09\LR09\obj\Debug\LR09.csproj.SuggestedBindingRedirects.cache
+Z:\24-25 уч год\31ИС\Паневкин\LR09\LR09\obj\Debug\LR09.Form1.resources
+Z:\24-25 уч год\31ИС\Паневкин\LR09\LR09\obj\Debug\LR09.Properties.Resources.resources
+Z:\24-25 уч год\31ИС\Паневкин\LR09\LR09\obj\Debug\LR09.csproj.GenerateResource.cache
+Z:\24-25 уч год\31ИС\Паневкин\LR09\LR09\obj\Debug\LR09.csproj.CoreCompileInputs.cache
+Z:\24-25 уч год\31ИС\Паневкин\LR09\LR09\obj\Debug\LR09.csproj.CopyComplete
+Z:\24-25 уч год\31ИС\Паневкин\LR09\LR09\obj\Debug\LR09.exe
+Z:\24-25 уч год\31ИС\Паневкин\LR09\LR09\obj\Debug\LR09.pdb
